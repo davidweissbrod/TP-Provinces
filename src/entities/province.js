@@ -16,3 +16,4 @@ class Pronvince{
     }
 }
 
+export default Province;
